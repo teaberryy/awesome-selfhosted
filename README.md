@@ -114,7 +114,7 @@ _Business Intelligence_
 
   * [Metabase](http://www.metabase.com/) - Simple Dashboarding and GUI Query tool, Nightly Emails and Slack Integration w/ PostgreSQL, MySQL, Redshift and other DBs. ([Source Code](https://github.com/metabase/metabase)) `AGPLv3` `Clojure`
   * [Redash](http://redash.io) - connect to over 18 types of databases (SQL and "NoSQL"), query your data, visualize it and create dashboards. Everything has a URL that can be shared. Slack and HipChat integration. ([Demo](https://demo.redash.io), [Source Code](https://github.com/getredash/redash)) `BSD` `Python`
-  * [Superset](http://superset.apache.org/) - Modern, enterprise-ready business intelligence web application. ([Source Code](https://github.com/apache/incubator-superset)) `Apache` `Python`
+  * [Superset](http://superset.apache.org/) - Modern, https://github.com/teaberryy/dotfiles-ready business intelligence web application. ([Source Code](https://github.com/apache/incubator-superset)) `Apache` `Python`
 
 
 ## Automation
@@ -543,7 +543,7 @@ See https://github.com/n1trux/awesome-sysadmin#dns
 * [Odoo](http://odoo.com) - Free open source ERP system. ([Demo](https://demo.odoo.com/), [Source Code](https://github.com/odoo/odoo)) `LGPLv3` `Python`
 * [Tryton](http://www.tryton.org/) - Free open source business solution. ([Demo](http://www.tryton.org/download.html), [Source Code](https://hg.tryton.org/)) `GPLv3` `Python`
 
-_Agriculture Resource Planning__
+_Agriculture Resource Planning_
 
   * [farmOS](http://farmos.org/) - A web-based farm record keeping application. ([Source Code](https://github.com/farmOS/farmOS)) `GPLv2` `PHP`
   * [tania](https://github.com/Tanibox/tania/) - A PHP based, free, and open source farming management system. `Apache` `PHP`
